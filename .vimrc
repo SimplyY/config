@@ -571,6 +571,8 @@ colorscheme molokai
 
 
 
+
+
 "设置标记一列的背景颜色和数字一行颜色一致
 hi! link SignColumn   LineNr
 hi! link ShowMarksHLl DiffAdd
